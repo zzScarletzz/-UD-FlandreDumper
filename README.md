@@ -1,6 +1,8 @@
 # -UD-FlandreDumper
 ExtremeDumper-x64 + AntiAntiDump + LoaderHook to Rename ver
 
+元:https://github.com/wwh1004/ExtremeDumper
+
 
 Undetected .NET Dump3r :)
 
